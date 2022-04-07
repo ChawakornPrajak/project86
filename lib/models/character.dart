@@ -42,7 +42,7 @@ List<Character> waifu = [
           "__Personality__\n"
           "While usually a graceful and modest girl, she reveals a ruthlessness on the battlefield comparable to any of the members of her squadron. Anju is also somewhat mischievous, conspiring with Kaie to tease Kurena about her affections for Shin.She has a tendency to hide her feelings as mentioned by Shin when she broke down in tears during the fireworks display. She also tries to hide her past abuses, growing out her hair and not revealing her body to hide her scars from the other girls in Spearhead.\n"
   ),
-  Character(images:"assets/images/kurena.jpg",
+  Character(images:"assets/images/Kurena.jpg",
       romanjiname:"Kurena Kukumila",
       appears:"86—EIGHTY-SIX (Light Novel),\n86 EIGHTY-SIX,86—EIGHTY-SIX (Manga),\n86 EIGHTY-SIX 2nd Season",
       placeori:"Unknow",
