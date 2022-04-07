@@ -29,7 +29,7 @@ class _homepageState extends State<homepage> {
             ListView(
               children: [
                 buildmiddle(tag),
-                Center(child: Text("Character & Voiceacotrs",style: TextStyle(
+                Center(child: Text("Character & Voiceactors",style: TextStyle(
                   fontSize: 50 ,color: Colors.white
                 ),)),
                 buildclickcard(width),
