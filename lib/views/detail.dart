@@ -13,6 +13,7 @@ class Detail extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        title: Image.asset("assets/images/icon.png"),
         backgroundColor: Colors.black,
       ),
       body: SafeArea(

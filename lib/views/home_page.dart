@@ -20,6 +20,7 @@ class _homepageState extends State<homepage> {
     List<String> tag = ['Name','Studio','Release Date','Original Run','Synopsis'];
     return Scaffold(
       appBar: AppBar(
+        title: Image.asset("assets/images/icon.png"),
         backgroundColor: Colors.black,
       ),
       body: SafeArea(
